@@ -1,0 +1,1 @@
+import { validadorFormularioRegistro,validorFormularioBusqueda} from "./modulos/Validadores.js";
