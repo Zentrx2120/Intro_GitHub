@@ -19,6 +19,7 @@ deserunt mollit anim id est laborum. -->
                         <div class="site-heading text-uppercase">
                             <h1>Examen Para Alumnos De Nuevo Ingreso</h1>
                             <span class="subheading">Ciclo Escolar 2024-2</span>
+                            <span class="subheading">Esta es una preuba sobre las ramas y el AppBar</span>
                         </div>
                     </div>
                 </div>
