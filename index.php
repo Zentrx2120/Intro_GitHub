@@ -19,7 +19,7 @@ deserunt mollit anim id est laborum. -->
                         <div class="site-heading text-uppercase">
                             <h1>Rama AppBar3</h1>
                             <span class="subheading">Creo</span>
-                            <span class="subheading">Esta es una preuba sobre las ramas y el AppBar</span>
+                            <span class="subheading">Github vs Gitlab jsjsjs ahora modifico el master en el mismo lugar q AppBar</span>
                             <span class="subheading">Hola</span>
                         </div>
                     </div>
