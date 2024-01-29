@@ -5,7 +5,7 @@
                         <ul class="list-inline text-center">
                             <li class="list-inline-item">
                                 <a href="https://escom.ipn.mx/">
-                                    <img src="assets/img/logoEscom.png" alt="Logo Escom">
+                                    <img src="assets/img/post-sample-image.jpg" alt="Logo Escom">
                                 </a>
                             </li>
                             <li class="list-inline-item">
